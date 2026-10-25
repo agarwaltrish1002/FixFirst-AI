@@ -1,2 +1,2 @@
 # FixFirst-AI
-what to fix the given problem first as per the need intelligently
+AI-powered campus safety, risk intelligence and preventive maintenance platform.
